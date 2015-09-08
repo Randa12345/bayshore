@@ -1,0 +1,6 @@
+C:\Practice\BayShore\BayShore\bin\Debug\BayShore.exe.config
+C:\Practice\BayShore\BayShore\bin\Debug\BayShore.exe
+C:\Practice\BayShore\BayShore\bin\Debug\BayShore.pdb
+C:\Practice\BayShore\BayShore\obj\Debug\BayShore.csprojResolveAssemblyReference.cache
+C:\Practice\BayShore\BayShore\obj\Debug\BayShore.exe
+C:\Practice\BayShore\BayShore\obj\Debug\BayShore.pdb
